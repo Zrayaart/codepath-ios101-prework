@@ -37,13 +37,7 @@ Discord
 - You can turn off animated stickers if you prefer.
 - You can mute or hide channels in a server.
 
-This project aims to develop a Food and drink mobile app similar to Cava but with better visual
-aesthetics and incorporating the functionality of Uber Eats. The app will provide a seamless user
-experience through the use of attractive visuals and an uncluttered interface, with features such
-as vertical scroll, a custom tip option, adding items after purchasing, and removing individual
-ingredients at checkout. Additionally, the app will offer a search and filter function to help
-users with allergies avoid ingredients such as dairy or peanuts, thereby catering to the needs of
-its users and setting itself apart from its competitors in the market.
+This project aims to help you keep track of your daily mood and wellness. The app features assessments and wellness checks, utilizing color and shape theory to visually represent your mood. You'll have access to a wide range of emotions to choose from, and you can even add your own if necessary. Additionally, you can record the experiences that made you feel a certain way with just a click of a button or through journaling with unlimited edits. The app sends daily notifications for checkups, with a mid-day check-in and an overall mood of the day. If you're unable to respond at the moment, you can simply snooze the notification. The app also includes an autosave function, so you don't need to worry about losing your progress. After each check-in, you'll receive regular feedback and tips, along with access to mindful meditation and information. You can view your mood trends by the month or week, using interactive graphs and visuals.
 
 ## Notes
 
